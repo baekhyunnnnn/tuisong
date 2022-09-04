@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wxae53c17729b08a94",
+"app_secret": "014ea710bd7f546f4db9e0327c5c3684",
+
+"template_id": "	GoXOVZ6Nqq9-6dVQiL5JUYDbhkOtqck-aBO7HcLVa5w	",
+"user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo "],
+#"user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo" , "or2ra539sV2ZuiAN9NtwM7e8CPIo"],
+
+"C_ShengFen": "武汉",
+"C_ChengShi": "黄石",
+"S_XingZuo": "天秤座",
+
+"S_Love": "2020-08-14",
+"birthday1": "2004-09-27",
+"birthday2": "2004-09-28",
+
+"C_String01": "笨笨浩浩",
+"C_String02": "love u",
+"C_String03": "You will always be my favorite hello and hardest goodbye",
+
+
+# 天气预报
+"API_TQYB":"27df60c7b756f651d1b6ad65334710a2",
+# 星座运势
+"API_XZYS":"27df60c7b756f651d1b6ad65334710a2",
+
+# 早安心语
+"API_ZAXY":"27df60c7b756f651d1b6ad65334710a2",
+# 晚安心语
+"API_WAXY":"27df60c7b756f651d1b6ad65334710a2",
+
+# 舔狗日记
+"API_TGRJ":"27df60c7b756f651d1b6ad65334710a2",
+# 土味情话
+"API_TWQH":"27df60c7b756f651d1b6ad65334710a2"
+}
